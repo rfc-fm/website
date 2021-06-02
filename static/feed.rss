@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>RFC</title>
+        <description>Actu hebdo sur la tech et le dev</description>
+        <itunes:author>Paraita Wohler, Peter Meuel</itunes:author>
+        <itunes:subtitle>Un peu de tout ce qui touche à l’actualité du dev, mais pas que</itunes:subtitle>
+        <link>https://rfc.fm/</link>
+        <language>fr_FR</language>
+        <lastBuildDate>Thu, 27 May 2021 16:31:30 +0000</lastBuildDate>
+        <itunes:category text="Technology"/>
+        <itunes:image href="https://rfc.fm/content/artwork.png"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Paraita WOHLER et Peter MEUEL</itunes:name>
+            <itunes:email>rfc@rfc.fm</itunes:email>
+        </itunes:owner>
+        <copyright>Copyright 2013–2021 RFC</copyright>
+        <itunes:copyright>Copyright 2013–2021 RFC</itunes:copyright>
+        
+        <item>
+            <guid isPermaLink="false">rfc-s01e00</guid>
+            <pubDate>Thu, 27 May 2021 16:31:30 +0000</pubDate>
+            <title>00: Tant que personne n’écoute</title>
+            <itunes:title>Tant que personne n’écoute</itunes:title>
+            <itunes:episode>0</itunes:episode>
+            <itunes:author>Paraita et Peter</itunes:author>
+            <itunes:subtitle>Odoo, Revatua et open-source en Polynésie</itunes:subtitle>
+            <itunes:duration>00:17:39</itunes:duration>
+            <enclosure url="https://static.rfc.fm/mp3/s01e00.mp3" length="137147823" type="audio/mpeg"/>
+            <link>https://rfc.fm/s01e00</link>
+            <description><![CDATA[
+                Coming soon
+                ]]>
+            </description>
+        </item>
+
+        
+    </channel>
+</rss>
