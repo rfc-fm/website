@@ -26,8 +26,8 @@
             <itunes:episode>0</itunes:episode>
             <itunes:author>Paraita et Peter</itunes:author>
             <itunes:subtitle>Odoo, Revatua et open-source en Polynésie</itunes:subtitle>
-            <itunes:duration>00:17:39</itunes:duration>
-            <enclosure url="https://static.rfc.fm/mp3/s01e00.mp3" length="137147823" type="audio/mpeg"/>
+            <itunes:duration>00:15:39</itunes:duration>
+            <enclosure url="https://static.rfc.fm/mp3/s01e00.mp3" length="22728840" type="audio/mpeg"/>
             <link>https://rfc.fm/s01e00</link>
             <description><![CDATA[
                 Coming soon
