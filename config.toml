@@ -1,0 +1,4 @@
+baseURL = "https://rfc.fm/"
+languageCode = "fr-fr"
+title = "RFC.FM"
+theme = "diary"
