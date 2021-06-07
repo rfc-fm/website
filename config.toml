@@ -1,4 +1,10 @@
 baseURL = "https://rfc.fm/"
 languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 title = "RFC.FM"
 theme = "diary"
+
+[[menu.main]]
+url = "https://rfcfm.libsyn.com/rss"
+name = "S’abonner au podcast"
+weight = 3
