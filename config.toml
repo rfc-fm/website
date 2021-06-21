@@ -5,6 +5,18 @@ title = "RFC.FM"
 theme = "diary"
 
 [[menu.main]]
+url = "https://podcasts.apple.com/us/podcast/rfc-fm/id1573175790"
+name = "sur Apple Podcast"
+weight = 1
+
+[[menu.main]]
+url = "https://open.spotify.com/show/77OhWoCrN1vLanVFz70vjd"
+name = "sur Spotify"
+weight = 2
+
+[[menu.main]]
 url = "https://rfcfm.libsyn.com/rss"
-name = "S’abonner au podcast"
+name = "Le flux RSS à l’ancienne"
 weight = 3
+
+
