@@ -1,0 +1,23 @@
+{{ if .IsNamedParams }}
+
+<iframe 
+    style="border: none" 
+    src="//html5-player.libsyn.com/embed/episode/id/{{.Get "src" }}/height/75/theme/standard/thumbnail/no/"
+    height="75" 
+    width="100%" 
+    scrolling="no"  
+    allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+</iframe>
+
+{{ else }}
+
+<iframe 
+    style="border: none" 
+    src="//html5-player.libsyn.com/embed/episode/id/{{.Get 0}}/height/75/theme/standard/thumbnail/no/"
+    height="75" 
+    width="100%" 
+    scrolling="no"  
+    allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen>
+</iframe>
+
+{{ end }}
