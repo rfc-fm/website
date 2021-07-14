@@ -19,4 +19,9 @@ url = "https://rfcfm.libsyn.com/rss"
 name = "Le flux RSS à l’ancienne"
 weight = 3
 
+[[menu.main]]
+url = "mailto:rfc@rfc.fm"
+name = "Poser une question"
+weight = 3
+
 
