@@ -1,6 +1,10 @@
 name: github pages
 
 on:
+  schedule:
+  # “At 16:05 on Friday. Every week.” (UTC time)
+  # Which translates to 6:05am every friday Tahiti time. (UTC-10)
+    - cron: '5 16 * * 5'
   push:
     branches:
       - main
