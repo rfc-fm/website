@@ -1,6 +1,7 @@
 name: github pages
 
 on:
+  workflow_dispatch:
   schedule:
   # “At 16:05 on Friday. Every week.” (UTC time)
   # Which translates to 6:05am every friday Tahiti time. (UTC-10)
