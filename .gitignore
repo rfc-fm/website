@@ -25,3 +25,5 @@ Sessionx.vim
 tags
 # Persistent undo
 [._]*.un~
+
+.hugo_build.lock
